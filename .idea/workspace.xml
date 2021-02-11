@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16df19df-afa5-4621-b244-0992800f91aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Quadrantes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uri1051.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,16 +82,9 @@
       <force-push-target remote-path="udemy-java" branch="main" />
     </force-push-targets>
   </component>
-  <component name="RunManager" selected="Application.Quadrantes">
+  <component name="RunManager" selected="Application.Uri1051">
     <configuration name="Quadrantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Quadrantes" />
-      <module name="udemy-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Uri1038" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Uri1038" />
       <module name="udemy-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,13 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uri1044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Uri1044" />
-      <module name="udemy-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Uri1048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Uri1048" />
       <module name="udemy-java" />
@@ -119,13 +104,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Uri1051" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uri1051" />
+      <module name="udemy-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uri1051" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uri1051" />
+      <module name="udemy-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Uri1051" />
+        <item itemvalue="Application.uri1051" />
         <item itemvalue="Application.Quadrantes" />
         <item itemvalue="Application.Uri1048" />
         <item itemvalue="Application.Uri1040" />
-        <item itemvalue="Application.Uri1044" />
-        <item itemvalue="Application.Uri1038" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613062639028</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Exercicio Estrutura If/Else">
+      <created>1613067570773</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1613067570773</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
