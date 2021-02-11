@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16df19df-afa5-4621-b244-0992800f91aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Uri1040.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Uri1044.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uri1048.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,14 +83,7 @@
       <force-push-target remote-path="udemy-java" branch="main" />
     </force-push-targets>
   </component>
-  <component name="RunManager" selected="Application.Uri1040">
-    <configuration name="Intervalo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intervalo" />
-      <module name="udemy-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Uri1048">
     <configuration name="Uri1017" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Uri1017" />
       <module name="udemy-java" />
@@ -120,13 +112,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Uri1048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Uri1048" />
+      <module name="udemy-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Uri1048" />
         <item itemvalue="Application.Uri1040" />
         <item itemvalue="Application.Uri1044" />
         <item itemvalue="Application.Uri1038" />
         <item itemvalue="Application.Uri1017" />
-        <item itemvalue="Application.Intervalo" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612998858652</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Exercicio Estrutura If/Else">
+      <created>1613004531862</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1613004531862</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
